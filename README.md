@@ -1,6 +1,6 @@
 # buf_twirp
-toy project using buf and twirp
+toy project using buf and connect-go
 
 https://github.com/bufbuild/buf
 
-https://github.com/twitchtv/twirp
+https://github.com/bufbuild/connect-go
