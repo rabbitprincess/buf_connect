@@ -1,4 +1,4 @@
-# buf_twirp
+# buf_connect
 toy project using buf and connect-go
 
 https://github.com/bufbuild/buf
